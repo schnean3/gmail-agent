@@ -1,0 +1,58 @@
+============================================================ 
+ Gmail Agent — Daily Run 
+ Started: 24.04.2026 16:28:20.13 
+============================================================ 
+ 
+The system is asking for your permission to send the email — please approve it to complete Task 4. While you do that, here's a full report of what was done:
+
+---
+
+## Task 1 — Inbox Organised
+
+**50 emails scanned** (last 24h). **16 emails labelled**:
+
+| Label | Count | Examples |
+|---|---|---|
+| `Receipts` | 6 | Anthropic, SBB EasyRide, coop.ch, smartphoto (×2), PayPal |
+| `Bills/Pending` | 3 | chinderhuus April, EKS electricity Q1, chinderhuus March |
+| `Finance` | 5 | Swissquote, neon ETF, Anthropic Pro, findependent, TWINO |
+| `Action Required` | 3 | ZKB MAS-Lunch, LinkedIn invite, inventar liste |
+
+Remaining 34 emails were newsletters, promotions, and property alerts — left untouched.
+
+---
+
+## Task 2 — Bills Pending (last 30 days)
+
+Amounts are in PDF attachments (cannot be read without download):
+
+1. **chinderhuus-sh.ch** — Monatliche Faktura April — Received Apr 23 — `Bills/Pending`
+2. **EKS Elektrizitätswerk Schaffhausen** — Quarterly electricity bill Q1 2026 — Received Apr 12 (12 days ago) — `Bills/Pending`
+3. **chinderhuus-sh.ch** — Monatliche Faktura March — Received Mar 26 (29 days ago) — `Bills/Pending` — ⚠️ may be overdue, please confirm if paid
+
+Already paid this period: ✅ Anthropic Claude Pro — **$216.20** (incl. 8.1% Swiss VAT) — Apr 24
+
+---
+
+## Task 3 — Urgent Items
+
+| Priority | Item | Reason |
+|---|---|---|
+| 🔴 | EKS electricity bill | 12 days old, due date unknown — check PDF |
+| 🟡 | chinderhuus March invoice | 29 days old — confirm if paid |
+| 🟡 | Swissquote investment offer | Subscription closes **30 Apr 2026** (6 days) |
+| 🔵 | "inventar liste" (erbinventar_vorlage.xlsx) | Sent from your Sunrise work email Apr 13 — estate inventory template, may need action |
+| 🔵 | MAS-Lunch RSVP (ZKB/Tobias Seitz) | Jul 14 lunch in Andelfingen — RSVP by ~Jul 7 |
+| 🔵 | LinkedIn contact request — Davide Gallace | Awaiting decision |
+
+---
+
+## Task 4 — Digest Email
+
+The digest email to schnean3@gmail.com is **waiting for your permission approval** above. Once you approve, it will be sent with subject: `📬 Gmail Agent Daily Digest — 2026-04-24`.
+============================================================ 
+ Gmail Agent — Daily Run 
+ Started: 24.04.2026 16:41:55.65 
+============================================================ 
+ 
+You've hit your limit · resets 7:30pm (Europe/Zurich)

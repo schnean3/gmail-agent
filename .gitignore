@@ -1,0 +1,31 @@
+# Secrets — NEVER commit these
+.env
+.env.*
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+.pytest_cache/
+
+# Node (if you use JS/TS)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Large data/model files
+*.bin
+*.pt
+*.ckpt
+data/raw/
