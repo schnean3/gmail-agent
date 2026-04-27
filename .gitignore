@@ -1,6 +1,7 @@
 # Secrets — NEVER commit these
 .env
 .env.*
+.mcp.json
 *.key
 *.pem
 client_secret_*.json
